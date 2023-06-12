@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 import utils.Calculator;
 
-public class Program {
+public class ProgramSwitchCase {
 
 	public static void main(String[] args) {
 
